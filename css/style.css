@@ -127,26 +127,26 @@ container
     justify-content: space-between;
     margin-bottom: 60px;
 }
-main {
+sub {
     width: 65%;
 }
-main article {
+sub article {
     margin-bottom: 80px;
 }
-main .article-title {
+sub .article-title {
     font-size: 1.5rem;
     margin: 10px 0 15px 0;
 }
-main ul {
+sub ul {
     display: flex;
     justify-content: flex-start;
     margin-bottom: 10px;
 }
-main li {
+sub li {
     font-size: 0.875rem;
     margin-right: 20px;
 }
-main .text {
+sub .text {
     padding: 10px 40px 30px 40px;
 }
 
@@ -290,7 +290,7 @@ SP
     #container {
         flex-direction: column;
     }
-    main {
+    sub {
         width:  100%;
     }
     /* aside */
